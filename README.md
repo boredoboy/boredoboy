@@ -1,16 +1,16 @@
-<!-- Главный баннер (твоя гифка с эстетичной тенью и закруглениями) -->
+<!-- Главный баннер (стабильная гифка, не блокируется гитхабом) -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/33/c4/47/33c447bc771dc82a93b482218f081c7e.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(44, 165, 224, 0.5);">
+  <img src="https://media.tenor.com/C3a_8r_iVroAAAAC/anime-aesthetic.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(44, 165, 224, 0.5);">
 </div>
 
 <h1 align="center">
   ⚡ Привет, я Dihant! 🎌
 </h1>
 
-<!-- Анимация печатного текста (SVG) -->
+<!-- Анимация печатного текста (Перенесено на стабильный сервер Demolab) -->
 <p align="center">
   <a href="https://github.com/boredoboy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=1000&height=50&lines=Молодой+программист+из+Украины+🇺🇦;Живу+кодом,+дышу+разработкой+💻;Вкладываю+душу+в+каждую+строчку+🚀;Обожаю+аниме+и+технологии+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=1000&height=50&lines=Молодой+программист+из+Украины+🇺🇦;Живу+кодом,+дышу+разработкой+💻;Вкладываю+душу+в+каждую+строчку+🚀;Обожаю+аниме+и+технологии+☕" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,11 +31,9 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <!-- Watamote Sip -->
       <img src="https://tenor.com/view/watamote-sip-anime-anime-sip-coffee-gif-5844153837149768577.gif" width="95%" style="border-radius: 15px;"/>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <!-- Yawn Cute Anime -->
       <img src="https://tenor.com/view/yawn-cute-anime-anime-cute-anime-girl-cute-gif-6597216339821888634.gif" width="95%" style="border-radius: 15px;"/>
     </td>
   </tr>
@@ -47,7 +45,6 @@
 **🇬🇧 English:**
 Hi there! I'm a young developer from Ukraine. Programming isn't just about writing code for me; it's art and a huge passion. I love building new things, diving deep into software architecture, and constantly growing in the IT field. My journey is just beginning, but I put my heart into every line of code because I genuinely enjoy the process of development. Besides coding, I'm into anime, video editing, and AI.
 
-<!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 Мой стек / Tech Stack
@@ -65,19 +62,17 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 </div>
 
 <br>
-<!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🎲 Немного интерактива / For Fun
 
 <div align="center">
   <a href="https://github.com/boredoboy">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="48%" style="border-radius: 10px; margin: 5px;" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="48%" style="border-radius: 10px; margin: 5px;" />
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" height="150" style="border-radius: 10px; margin: 5px;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" height="150" style="border-radius: 10px; margin: 5px;" />
   </a>
 </div>
 
-<!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏆 Моя активность и статистика / GitHub Stats
@@ -91,12 +86,12 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boredoboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" width="48%" style="margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredoboy&layout=compact&theme=tokyonight&hide_border=true" width="48%" style="margin: 5px;" />
+  <!-- Карточки статистики с фиксированной высотой, чтобы мобилка их не ломала -->
+  <img src="https://github-readme-stats.vercel.app/api?username=boredoboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="180" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredoboy&layout=compact&theme=tokyonight&hide_border=true" height="180" style="margin: 5px;" />
 </div>
 
 <br>
-<!-- Календарь серии коммитов (Streak) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boredoboy&theme=tokyonight&hide_border=true" width="100%" />
 </div>
@@ -107,7 +102,6 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boredoboy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
-<!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📬 Связаться со мной / Connect With Me
@@ -124,7 +118,7 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
   </a>
 </p>
 
-<!-- Подвал с эстетичной ночной гифкой -->
+<!-- Подвал -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/82/c6/5b/82c65b161c9258276f57161bcf70a1a5.gif" width="100%" style="border-radius: 15px; opacity: 0.8;">
+  <img src="https://media.tenor.com/mU_1523BfR0AAAAC/aesthetic-anime.gif" width="100%" style="border-radius: 15px; opacity: 0.8;">
 </div>
