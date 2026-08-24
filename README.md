@@ -9,17 +9,17 @@
 
 <!-- Анимация печатного текста (SVG) -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Dihant">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=1000&height=50&lines=Молодой+программист+из+Украины+🇺🇦;Живу+кодом,+дышу+разработкой+💻;Вкладываю+душу+в+каждую+строчку+🚀;Обожаю+аниме+и+технологии+☕" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Бейджи статуса -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Просмотры+профиля&color=000000&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dihant&label=Просмотры+профиля&color=000000&style=for-the-badge&logo=github" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Ukraine%20🇺🇦-FFD500?style=for-the-badge&labelColor=005BBB" />
   <img src="https://img.shields.io/badge/Age-18-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Coding-28A745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Coding_Mode_ON-28A745?style=for-the-badge" />
 </p>
 
 <!-- Анимированная неоновая линия -->
@@ -27,7 +27,7 @@
 
 ### 🌟 Обо мне / About Me
 
-<!-- Таблица для твоих аниме-гифок, чтобы они стояли идеально ровно и красиво -->
+<!-- Таблица для твоих аниме-гифок -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" align="center" style="border: none;">
@@ -55,16 +55,28 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 <div align="center">
   <p><b>💻 Основной арсенал:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,bash,linux&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,react,bash,linux,windows&theme=dark&perline=11" />
   </a>
   <br><br>
-  <p><b>⚙️ Инструменты и контент:</b></p>
+  <p><b>⚙️ Инструменты, базы и контент:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gcp,vscode,pr,ae,discord&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gcp,vscode,docker,mysql,sqlite,pr,ae,figma,discord&theme=dark&perline=12" />
   </a>
 </div>
 
 <br>
+<!-- Анимированная неоновая линия -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🎲 Немного интерактива / For Fun
+
+<div align="center">
+  <a href="https://github.com/Dihant">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="48%" style="border-radius: 10px; margin: 5px;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="48%" style="border-radius: 10px; margin: 5px;" />
+  </a>
+</div>
+
 <!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -73,32 +85,26 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 <div align="center">
   <!-- Трофеи -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7&row=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dihant&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7&row=1" alt="Trophies" />
   </a>
 </div>
 <br>
 
-<!-- Карточки статистики -->
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dihant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" width="48%" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dihant&layout=compact&theme=tokyonight&hide_border=true" width="48%" style="margin: 5px;" />
+</div>
 
+<br>
 <!-- Календарь серии коммитов (Streak) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dihant&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 <br>
 <!-- Крутой анимированный график активности -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dihant&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <!-- Анимированная неоновая линия -->
