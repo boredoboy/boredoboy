@@ -101,6 +101,15 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 ---
 
+## 🎥 YouTube Statistics / Статистика канала
+
+<!-- YOUTUBE_STATS_START -->
+<!-- YOUTUBE_STATS_END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
 ## 📬 Connect With Me / Свяжитесь со мной
 
 <p align="center">
