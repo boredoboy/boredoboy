@@ -9,7 +9,9 @@
 
 <!-- Динамическая печатная анимация -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2CA5E0&center=true&vCenter=true&width=1000&height=60&lines=🚀+Молодой+программист;💻+Full+Stack+Developer;🎨+UI%2FUX+Enthusiast;🔧+Problem+Solver" alt="Typing SVG" />
+  <a href="https://github.com/boredoboy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2CA5E0&center=true&vCenter=true&width=1000&height=60&lines=🚀+Молодой+программист;💻+Full+Stack+Developer;🎨+UI%2FUX+Enthusiast;🔧+Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Бейджи статуса -->
@@ -52,34 +54,16 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 <div align="center">
   <h3>🛠 Main Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,html,css,react,nodejs,bash&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,bash&theme=dark" />
   
   <h3>⚙️ Tools & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,mysql,sqlite,postgres,gcp,figma&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=github,docker,vscode,gcp&theme=dark" />
   
   <h3>🌐 Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=linux,windows,vite,webpack,npm,yarn&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,npm&theme=dark" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🎲 Интерактивный контент / Fun Section
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" style="border-radius: 10px;" />
-      </td>
-      <td width="50%">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -126,14 +110,9 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
   <a href="https://youtube.com/@dihantxd" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.gg/YOUR_SERVER" target="_blank">
+  <!-- Замени ТВОЙ_ДИСКОРД_ID на свой или оставь так, если не нужен переход по клику -->
+  <a href="https://discordapp.com/users/ТВОЙ_ДИСКОРД_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
