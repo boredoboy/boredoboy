@@ -105,8 +105,8 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 <!-- YOUTUBE_STATS_START -->
 > 🔴 **YouTube: [@dihantxd](https://youtube.com/@dihantxd)**
-> 📈 **Подписчики:** 1 720 *(За неделю: 0 | За месяц: 0 | За полгода: 0)*
-> 👁️ **Просмотры:** 6 259 372 *(За неделю: +3 758 | За месяц: +3 758 | За полгода: +3 758)*
+> 📈 **Подписчики:** 1 730 *(За неделю: +10 | За месяц: +10 | За полгода: +10)*
+> 👁️ **Просмотры:** 6 263 912 *(За неделю: +8 298 | За месяц: +8 298 | За полгода: +8 298)*
 <!-- YOUTUBE_STATS_END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
