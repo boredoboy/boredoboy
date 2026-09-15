@@ -32,10 +32,12 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://tenor.com/view/watamote-sip-anime-anime-sip-coffee-gif-5844153837149768577.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+      <!-- Исправлена ссылка на прямую GIF -->
+      <img src="https://media.tenor.com/41I-jE0qE-4AAAAC/anime-sip.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://tenor.com/view/yawn-cute-anime-anime-cute-anime-girl-cute-gif-6597216339821888634.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+      <!-- Исправлена ссылка на прямую GIF -->
+      <img src="https://media.tenor.com/8c3X2_3_KAAAAAC/yawn-cute-anime.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
     </td>
   </tr>
 </table>
@@ -72,29 +74,31 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 ### 🥇 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boredoboy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7&row=1" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boredoboy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7&row=1&v=1" alt="Trophies" width="100%" />
 </div>
 
 ### 📊 Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boredoboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredoboy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boredoboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredoboy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" />
 </div>
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boredoboy&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="Streak Stats" />
+  <!-- Заменен мертвый домен herokuapp на рабочий demolab -->
+  <img src="https://streak-stats.demolab.com/?user=boredoboy&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="Streak Stats" />
 </div>
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boredoboy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boredoboy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&v=1" width="100%" alt="Activity Graph" />
 </div>
 
 ### 💾 Contribution Stats
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=boredoboy&theme=tokyonight" width="100%" alt="Contribution Stats" />
+  <!-- Старый сервис часто падает, заменен на стабильную карточку профиля -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boredoboy&theme=tokyonight" width="100%" alt="Contribution Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
