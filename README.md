@@ -1,6 +1,6 @@
 <!-- Главный баннер -->
 <div align="center">
-  <img src="https://media.tenor.com/C3a_8r_iVroAAAAC/anime-aesthetic.gif" width="100%">
+  <img src="https://media.tenor.com/C3a_8r_iVroAAAAC/anime-aesthetic.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(44, 165, 224, 0.5);">
 </div>
 
 <h1 align="center">
@@ -29,11 +29,16 @@
 
 ## 🌟 Обо мне / About Me
 
-<!-- Гифки без рамок таблицы, которые теперь точно работают -->
-<p align="center">
-  <img src="https://media.tenor.com/MFE9SAnuSgIAAAAC/watamote-sip.gif" width="48%" />
-  <img src="https://media.tenor.com/H7YtU0gM_4UAAAAC/yawn-anime.gif" width="48%" />
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://tenor.com/view/watamote-sip-anime-anime-sip-coffee-gif-5844153837149768577.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://tenor.com/view/yawn-cute-anime-anime-cute-anime-girl-cute-gif-6597216339821888634.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+    </td>
+  </tr>
+</table>
 
 ### 🇷🇺 Русский:
 Привет! Я молодой разработчик из Украины 🇺🇦 Программирование для меня — это не просто написание кода, это искусство и огромная страсть. Я люблю создавать новые вещи, глубоко погружаться в архитектуру ПО и постоянно развиваться.
@@ -140,7 +145,7 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 <!-- Подвал -->
 <div align="center">
-  <img src="https://media.tenor.com/mU_1523BfR0AAAAC/aesthetic-anime.gif" width="100%">
+  <img src="https://media.tenor.com/mU_1523BfR0AAAAC/aesthetic-anime.gif" width="100%" style="border-radius: 15px; opacity: 0.8; box-shadow: 0 0 20px rgba(44, 165, 224, 0.3);">
   
   <p>
     <strong>Made with ❤️ by Dihant</strong><br>
