@@ -1,6 +1,6 @@
 <!-- Главный баннер -->
 <div align="center">
-  <img src="https://media.tenor.com/C3a_8r_iVroAAAAC/anime-aesthetic.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(44, 165, 224, 0.5);">
+  <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="100%" alt="Anime Banner">
 </div>
 
 <h1 align="center">
@@ -29,15 +29,13 @@
 
 ## 🌟 Обо мне / About Me
 
-<table align="center" style="border: none; background-color: transparent;">
+<table align="center">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Исправлена ссылка на прямую GIF -->
-      <img src="https://media.tenor.com/41I-jE0qE-4AAAAC/anime-sip.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="95%" alt="Anime GIF 1"/>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Исправлена ссылка на прямую GIF -->
-      <img src="https://media.tenor.com/8c3X2_3_KAAAAAC/yawn-cute-anime.gif" width="95%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(44, 165, 224, 0.3)"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="95%" alt="Anime GIF 2"/>
     </td>
   </tr>
 </table>
@@ -86,7 +84,6 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 ### 🔥 Streak Stats
 <div align="center">
-  <!-- Заменен мертвый домен herokuapp на рабочий demolab -->
   <img src="https://streak-stats.demolab.com/?user=boredoboy&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="Streak Stats" />
 </div>
 
@@ -97,7 +94,6 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 ### 💾 Contribution Stats
 <div align="center">
-  <!-- Старый сервис часто падает, заменен на стабильную карточку профиля -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boredoboy&theme=tokyonight" width="100%" alt="Contribution Stats" />
 </div>
 
@@ -129,10 +125,10 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
   <a href="https://youtube.com/@dihantxd" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <!-- Замени ТВОЙ_ДИСКОРД_ID на свой или оставь так, если не нужен переход по клику -->
-  <a href="https://discordapp.com/users/ТВОЙ_ДИСКОРД_ID" target="_blank">
+  <!-- Если есть Discord ID — вставь вместо YOUR_DISCORD_ID -->
+  <!-- <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -149,7 +145,7 @@ Hi there! I'm a young developer from Ukraine. Programming isn't just about writi
 
 <!-- Подвал -->
 <div align="center">
-  <img src="https://media.tenor.com/mU_1523BfR0AAAAC/aesthetic-anime.gif" width="100%" style="border-radius: 15px; opacity: 0.8; box-shadow: 0 0 20px rgba(44, 165, 224, 0.3);">
+  <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="100%" alt="Footer Anime">
   
   <p>
     <strong>Made with ❤️ by Dihant</strong><br>
